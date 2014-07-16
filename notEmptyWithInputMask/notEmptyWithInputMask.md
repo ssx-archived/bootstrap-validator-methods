@@ -1,7 +1,8 @@
 # notEmptyWithInputMask
 
-This is to be used in combination with the inputmask.js plugin to ensure that a
-value has been filled in correctly.
+This is to be used in conjuction with the [robinherbots/jquery.inputmask(https://github.com/RobinHerbots/jquery.inputmask) plugin.
+
+This is to be used in combination with the inputmask.js plugin to ensure that a value has been filled in correctly.
 
 	$(document).ready(function() {
 	    $('#form').bootstrapValidator({

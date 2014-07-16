@@ -1,6 +1,6 @@
 # notEmptyMatchesField
 
-This is to be used in combination with the inputmask.js plugin which handles the validation of email address entry.
+This is to be used in conjuction with the [robinherbots/jquery.inputmask(https://github.com/RobinHerbots/jquery.inputmask) plugin to handle the validation of email address entry and that one field matches another.
 
 	$(document).ready(function() {
 	    $('#form').bootstrapValidator({
